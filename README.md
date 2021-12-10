@@ -1,2 +1,0 @@
-# javaskrip
-jquery-tes1
